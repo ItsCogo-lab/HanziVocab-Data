@@ -1,0 +1,12 @@
+{
+  "format": 1,
+  "version": "1.0.0",
+  "generatedAt": "2026-09-28T20:25:51Z",
+  "chunkCount": 32,
+  "sources": {
+    "cc-cedict": "cedict-json@1.3.20251213 (CC-CEDICT 2025-12-13)",
+    "unihan": "Unicode 18.0.0",
+    "makemeahanzi": "skishore/makemeahanzi@bddc96d41bef78427ed0e034e9f7e31d71fd1b92",
+    "hanzi-writer-data": "hanzi-writer-data@2.0.1"
+  }
+}
